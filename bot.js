@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("212179685419909120")
+let channel =     client.channels.get("523935563330617364")
 setInterval(function() {
-channel.send(`**Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_**`);
+channel.send(`**Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_**  **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_**`);
 }, 30)
 })
 
