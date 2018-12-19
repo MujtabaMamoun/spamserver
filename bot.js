@@ -4,9 +4,9 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("هنا اي دي الروم")
+let channel =     client.channels.get("523211709914284035")
 setInterval(function() {
-channel.send(`هنا كلام ال سبام`);
+channel.send(`**Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_** **Ez By SuliMAN009 / xRq_**`);
 }, 30)
 })
 
